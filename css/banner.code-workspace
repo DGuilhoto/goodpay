@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "banner",
+			"path": "../../../../Downloads/drive-download-20230302T134726Z-001/banner"
+		},
+		{
+			"name": "goodpay",
+			"path": ".."
+		},
+		{
+			"name": "interface",
+			"path": "../../../../Downloads/drive-download-20230302T134726Z-001/interface"
+		},
+		{
+			"name": "logo",
+			"path": "../../../../Downloads/drive-download-20230302T134726Z-001/logo"
+		},
+		{
+			"name": "quadrado",
+			"path": "../../../../Downloads/drive-download-20230302T134726Z-001/quadrado"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "goodpay"
+	}
+}
